@@ -1,0 +1,158 @@
+[
+    {
+      "name": "Home",
+      "slug": "/",
+      "icon": "Home",
+      "routeName": "home"
+    },
+    {
+      "name": "Base64 Encoder/Decoder",
+      "slug": "/tools/base64",
+      "icon": "FileCode",
+      "routeName": "tools.base64"
+    },
+    {
+        "name": "JWT Decoder",
+        "slug": "/tools/jwt-decoder",
+        "icon": "KeyRound",
+        "routeName": "tools.jwt-decoder"
+    },
+    {
+        "name": "JSON Formatter",
+        "slug": "/tools/json-formatter",
+        "icon": "Braces",
+        "routeName": "tools.json-formatter"
+    },
+    {
+        "name": "Regex Tester",
+        "slug": "/tools/regex-tester",
+        "icon": "SearchCode",
+        "routeName": "tools.regex-tester"
+    },
+    {
+        "name": "URL Parser",
+        "slug": "/tools/url-parser",
+        "icon": "Link",
+        "routeName": "tools.url-parser"
+    },
+    {
+        "name": "URI Component Encoder/Decoder",
+        "slug": "/tools/uri-component",
+        "icon": "Link2",
+        "routeName": "tools.uri-component"
+    },
+    {
+        "name": "UUID Generator",
+        "slug": "/tools/uuid-generator",
+        "icon": "Fingerprint",
+        "routeName": "tools.uuid-generator"
+    },
+    {
+        "name": "ULID Generator",
+        "slug": "/tools/ulid-generator",
+        "icon": "Fingerprint",
+        "routeName": "tools.ulid-generator"
+    },
+    {
+        "name": "RSA Key Generator",
+        "slug": "/tools/rsa-key-generator",
+        "icon": "Key",
+        "routeName": "tools.rsa-key-generator"
+    },
+    {
+        "name": "AES Encrypt/Decrypt",
+        "slug": "/tools/aes-encrypt-decrypt",
+        "icon": "Lock",
+        "routeName": "tools.aes-encrypt-decrypt"
+    },
+    {
+        "name": "SHA Hasher",
+        "slug": "/tools/sha-hasher",
+        "icon": "Shield",
+        "routeName": "tools.sha-hasher"
+    },
+    {
+        "name": "MD5 Hasher",
+        "slug": "/tools/md5-hasher",
+        "icon": "ShieldCheck",
+        "routeName": "tools.md5-hasher"
+    },
+    {
+        "name": "HMAC SHA Generator",
+        "slug": "/tools/hmac-sha-generator",
+        "icon": "ShieldAlert",
+        "routeName": "tools.hmac-sha-generator"
+    },
+    {
+        "name": "SQL Formatter",
+        "slug": "/tools/sql-formatter",
+        "icon": "Database",
+        "routeName": "tools.sql-formatter"
+    },
+    {
+        "name": "Cron Parser",
+        "slug": "/tools/cron-parser",
+        "icon": "Clock",
+        "routeName": "tools.cron-parser"
+    },
+    {
+        "name": "QR Code Generator",
+        "slug": "/tools/qr-code-generator",
+        "icon": "QrCode",
+        "routeName": "tools.qr-code-generator"
+    },
+    {
+        "name": "JSON Compare",
+        "slug": "/tools/json-compare",
+        "icon": "FileDiff",
+        "routeName": "tools.json-compare"
+    },
+    {
+        "name": "HTML Preview",
+        "slug": "/tools/html-preview",
+        "icon": "Layout",
+        "routeName": "tools.html-preview"
+    },
+    {
+        "name": "PGP Tool",
+        "slug": "/tools/pgp-tool",
+        "icon": "LockKeyhole",
+        "routeName": "tools.pgp-tool"
+    },
+    {
+        "name": "Timestamp Converter",
+        "slug": "/tools/timestamp-converter",
+        "icon": "Calendar",
+        "routeName": "tools.timestamp-converter"
+    },
+    {
+        "name": "Port Checker",
+        "slug": "/tools/port-checker",
+        "icon": "Server",
+        "routeName": "tools.port-checker"
+    },
+    {
+        "name": "Text Diff",
+        "slug": "/tools/text-diff",
+        "icon": "FileDiff",
+        "routeName": "tools.text-diff"
+    },
+    {
+        "name": "Markdown Preview",
+        "slug": "/tools/markdown-preview",
+        "icon": "FileText",
+        "routeName": "tools.markdown-preview"
+    },
+    {
+        "name": "Curl to Code",
+        "slug": "/tools/curl-to-code",
+        "icon": "Terminal",
+        "routeName": "tools.curl-to-code"
+    },
+    {
+        "name": "Certificate Decoder",
+        "slug": "/tools/certificate-decoder",
+        "icon": "BadgeCheck",
+        "routeName": "tools.certificate-decoder"
+    }
+]
