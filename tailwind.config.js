@@ -69,5 +69,5 @@ export default {
     	}
     },
 
-    plugins: [forms, require("tailwindcss-animate"),require('tailwind-scrollbar')],
+    plugins: [forms, require("tailwindcss-animate")],
 };
